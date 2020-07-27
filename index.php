@@ -1,7 +1,7 @@
 <?php
 get_header();
 ?>
-<h1 class="text-primary">Wordpress Starter Theme</h1>
+<h1>Wordpress Starter Theme</h1>
 
 <?php
 get_footer();
